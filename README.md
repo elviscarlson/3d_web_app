@@ -1,10 +1,10 @@
 # Projektnamn
 
-En beskrivning av projektet här.
+3D web app
 
 ## Demo
 
-Du kan testa en live-version av projektet här: [Live Demo](https://yourusername.pythonanywhere.com)
+Du kan testa en live-version av projektet här: [Live Demo]()
 
 ## Skärmdumpar
 
@@ -38,6 +38,3 @@ python run.py
 
 
 
-## Kontakt
-
-[Din kontaktinformation]
